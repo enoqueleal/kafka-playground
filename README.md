@@ -2,7 +2,7 @@
 
 This repository is for my notes about Kafka.
 
-The stack:
+The stack used:
 
 * Zookeeper
 * Kafka
